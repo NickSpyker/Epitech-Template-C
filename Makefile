@@ -11,7 +11,7 @@ CPPFLAGS = -Iinclude
 
 LDFLAGS = -lmy
 
-SRC = src/main.c
+SRC =	src/main.c
 
 OBJ = $(SRC:.c=.o)
 
