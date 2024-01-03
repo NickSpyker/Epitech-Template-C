@@ -50,3 +50,13 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# IDEs and editors
+.project
+.classpath
+.cproject
+*.nbattrs
+.idea/
+*.sublime-project
+*.sublime-workspace
+.vscode/
