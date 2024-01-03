@@ -1,1 +1,1 @@
-# Epitech-Template-C
+# Epitech C Project Template

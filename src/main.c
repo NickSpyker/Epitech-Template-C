@@ -1,6 +1,6 @@
 /*
 ** EPITECH PROJECT, 2023
-** Secured
+** Main Function
 ** File description:
 ** main.c
 */
